@@ -74,7 +74,7 @@
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Run Time Menu.rtm" Type="Document" URL="../Run Time Menu.rtm"/>
-		<Item Name="FiniteDAQIcon.ico" Type="Document" URL="../../../../Users/RIG/Downloads/FiniteDAQIcon.ico"/>
+		<Item Name="FiniteDAQIcon.ico" Type="Document" URL="../../FiniteDAQIcon.ico"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
@@ -340,7 +340,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Finite DAQ EXE/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/FiniteDAQIcon.ico</Property>
+				<Property Name="Exe_iconItemID" Type="Ref"></Property>
 				<Property Name="Source[0].itemID" Type="Str">{A421FCF5-37B7-4EB7-8A67-7AD0C0319BCA}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
