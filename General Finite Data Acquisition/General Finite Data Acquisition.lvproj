@@ -331,7 +331,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C5AFAF2D-1853-4D01-9ABF-11793F2CF0D2}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">General Finite Data Acquisition.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Finite DAQ EXE/General Finite Data Acquisition.exe</Property>
@@ -419,7 +419,7 @@
 				<Property Name="INST_defaultDir" Type="Str">{2EA5552C-1DA2-48EA-804B-42EA6A0E6FAB}</Property>
 				<Property Name="INST_installerName" Type="Str">install.exe</Property>
 				<Property Name="INST_productName" Type="Str">General Finite Data Acquisition</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.2</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.3</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">21018006</Property>
 				<Property Name="MSI_distID" Type="Str">{76315255-039E-4978-B9F8-CE57ADE587D7}</Property>
