@@ -42,25 +42,40 @@ The key difference is that **this repository is for finite acquisition** (collec
 ---
 
 ## Quick start (choose one)
+After downloading the project, complete the below steps before choosing one of the options.
+
+1. Open the LabVIEW project:
+   - `General-Finite-DAQ\General Finite Data Acquisition\General Finite Data Acquisition.lvproj`
+
+2. In the **Project Explorer**, expand:
+   - **Build Specifications**
+
+3. Right-click **Finite DAQ EXE** and select:
+   - **Build**
+
+4. Once the EXE build completes, right-click **Finite DAQ Installer** and select:
+   - **Build**
+
+This will generate both the executable and installer.
 
 ### Option A — Install (recommended)
 Use this if you're setting up on a PC for the first time.
 
 1. Go to:
-   - `builds/General Finite Data Acquisition/Finite DAQ Installer/Volume/`
+   - `C:\Volume`
 2. Run:
    - `install.exe`
 3. Launch the application after installation (shortcut/location depends on install options)
 
 ### Option B — Run the EXE (no install)
 1. Go to:
-   - `builds/General Finite Data Acquisition/Finite DAQ EXE/`
+   - `General-Finite-DAQ\builds\General Finite Data Acquisition\Finite DAQ EXE`
 2. Run:
    - `General Finite Data Acquisition.exe`
 
 ### Option C — Run from LabVIEW (source)
 1. Go to:
-   - `General Finite Data Acquisition/`
+   - `General-Finite-DAQ\General Finite Data Acquisition`
 2. Open:
    - `General Finite Data Acquisition.lvproj`
 3. Open and run:
