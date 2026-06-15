@@ -327,21 +327,22 @@
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Finite DAQ EXE</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/General Finite DAQ App</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C5AFAF2D-1853-4D01-9ABF-11793F2CF0D2}</Property>
-				<Property Name="Bld_version.build" Type="Int">7</Property>
+				<Property Name="Bld_version.build" Type="Int">8</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">General Finite Data Acquisition.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Finite DAQ EXE/General Finite Data Acquisition.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/General Finite DAQ App/NI_AB_PROJECTNAME.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Finite DAQ EXE/data</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/General Finite DAQ App/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/FiniteDAQIcon.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{08CE2819-96AC-4704-AFAE-A9E2C5526709}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{75B0CD92-81A5-4FF3-BFDA-8BA8CA995A7C}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main.vi</Property>
@@ -413,12 +414,12 @@
 				<Property Name="DistPart[2].upgradeCode" Type="Str">{6D2EBDAF-6CCD-44F3-B767-4DF9E0F2037B}</Property>
 				<Property Name="DistPartCount" Type="Int">3</Property>
 				<Property Name="INST_autoIncrement" Type="Bool">true</Property>
-				<Property Name="INST_buildLocation" Type="Path">/C</Property>
+				<Property Name="INST_buildLocation" Type="Path">/C/General Finite DAQ Installer</Property>
 				<Property Name="INST_buildSpecName" Type="Str">Finite DAQ Installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{2EA5552C-1DA2-48EA-804B-42EA6A0E6FAB}</Property>
 				<Property Name="INST_installerName" Type="Str">install.exe</Property>
 				<Property Name="INST_productName" Type="Str">General Finite Data Acquisition</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.4</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.5</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">21018006</Property>
 				<Property Name="MSI_arpCompany" Type="Str">University of Bath</Property>
