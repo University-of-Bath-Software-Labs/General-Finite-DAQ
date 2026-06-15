@@ -62,14 +62,14 @@ This will generate both the executable and installer.
 Use this if you're setting up on a PC for the first time.
 
 1. Go to:
-   - `C:\Volume`
+   - `C:\General Finite DAQ Installer\Volume`
 2. Run:
    - `install.exe`
 3. Launch the application after installation (shortcut/location depends on install options)
 
 ### Option B — Run the EXE (no install)
 1. Go to:
-   - `General-Finite-DAQ\builds\General Finite Data Acquisition\Finite DAQ EXE`
+   - `C:\General Finite DAQ App`
 2. Run:
    - `General Finite Data Acquisition.exe`
 
@@ -145,10 +145,10 @@ It contains:
   - `General Finite Data Acquisition/Configuration/Recovery.bin`
 
 - Built application (EXE):
-  - `builds/General Finite Data Acquisition/Finite DAQ EXE/General Finite Data Acquisition.exe`
+  - `C:\General Finite DAQ App/General Finite Data Acquisition.exe`
 
 - Installer:
-  - `builds/General Finite Data Acquisition/Finite DAQ Installer/Volume/install.exe`
+  - `C:\General Finite DAQ Installer\Volume/install.exe`
 
 ---
 
